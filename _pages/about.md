@@ -27,4 +27,4 @@ Publications & Books
 
 * Author and publisher of literary works distributed across major platforms.
 * 3 Research Papers published on IMRF (International) Social Science Journal & The Investigator.
-* 3 Research Under Review and have SSRN Preprint DOIs.
+* 3 Research Papers Under Review and have SSRN Preprint DOIs.
