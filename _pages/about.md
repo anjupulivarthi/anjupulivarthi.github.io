@@ -19,11 +19,12 @@ Research Focus
 Academic & Professional Background
 ======
 
-* **Academic Training:** Mass Communication & Journalism (Graduate & Undergraduate)
+* **Academic Training:** Mass Communication & Journalism & Finance (Graduate & Undergraduate)
 * **Professional Background:** Journalism, literary publishing, and public relations
 
 Publications & Books
 ======
 
 * Author and publisher of literary works distributed across major platforms.
-* Showcase participant at the New Delhi World Book Fair.
+* 3 Research Papers published on IMRF (International) Social Science Journal & The Investigator.
+* 3 Research Under Review and have SSRN Preprint DOIs.
