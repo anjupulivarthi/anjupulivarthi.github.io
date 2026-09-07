@@ -15,7 +15,7 @@ main:
     url: /talks/   
         
   - title: "Books Published"
-    url: /year-archive/
+    url: /books/
     
   - title: "CV"
     url: /cv/
