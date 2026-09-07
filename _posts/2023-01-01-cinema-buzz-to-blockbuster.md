@@ -1,6 +1,6 @@
 ---
 title: "Cinema: From Buzz to Blockbuster: The Role of Marketing, PR and Audience Psychology, Volume 1"
-date: 2023-01-01
+date: 2026-07-27
 permalink: /posts/2023/cinema-buzz-to-blockbuster/
 paperurl: 'http://dx.doi.org/10.59646/771'
 ---
