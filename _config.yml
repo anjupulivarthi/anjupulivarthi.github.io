@@ -16,63 +16,27 @@ repository              : "anjupulivarthi/anjupulivarthi.github.io"
 # Site Author Sidebar Settings
 author:
   # Biographic information
-  avatar               : "ChatGPT Image Jun 17, 2026, 03_41_31 PM.png"
-  name                 : "Anju Pulivarthi"
-  pronouns             : ""
-  bio                  : "Media & Communication Scholar researching AI-mediated communication, source authenticity, moving image studies, and Indian Eco-Cinema."
-  location             : "Bengaluru, India"
-  employer             : "Ph.D. Applicant"
-  uri                  : ""
-  email                : ""
+  avatar                : "ChatGPT Image Jun 17, 2026, 03_41_31 PM.png"
+  name                  : "Anju Pulivarthi"
+  pronouns              : ""
+  bio                   : "Media & Communication Scholar researching AI-mediated communication, source authenticity, moving image studies, and Indian Eco-Cinema."
+  location              : "Bengaluru, India"
+  employer              : "Ph.D. Applicant"
+  uri                   : ""
+  email                 : "anjuchaudary53@gmail.com"
 
   # Academic websites
-  academia             : ""
-  arxiv                : ""
-  googlescholar        : ""
-  inspire-hep          : ""
-  impactstory          : ""
-  orcid                : ""
-  semantic             : ""
-  ssrn                 : ""
-  pubmed               : ""
-  researchgate         : ""
-  scopus               : ""
-  zotero               : ""
+  googlescholar         : "https://scholar.google.com/citations?user=y3mpZtcAAAAJ&hl=en"
+  orcid                 : "https://orcid.org/my-orcid?orcid=0009-0004-4722-0235"
+  ssrn                  : "https://hq.ssrn.com/submissions/MyPapers.cfm?partid=12826988&redirectFrom=true&redirectFrom=true"
 
   # Repositories and software development
-  bitbucket            : ""
-  codepen              : ""
-  dribbble             : ""
-  github               : "anjupulivarthi"
-  kaggle               : ""
-  stackoverflow        : ""
+  github                : "anjupulivarthi"
 
   # Social media
-  artstation           : ""
-  bluesky              : ""
-  facebook             : ""
-  flickr               : ""
-  foursquare           : ""
-  goodreads            : ""
-  google_plus          : ""
-  keybase              : ""
-  instagram            : ""
-  lastfm               : ""
-  linkedin             : ""
-  mastodon             : ""
-  medium               : ""
-  pinterest            : ""
-  soundcloud           : ""
-  steam                : ""
-  telegram             : ""
-  tumblr               : ""
-  twitter              : ""
-  vine                 : ""
-  weibo                : ""
-  wikipedia            : ""
-  xing                 : ""
-  youtube              : ""
-  zhihu                : ""
+  linkedin              : "p-anju-50607b185"
+  facebook              : "Anju Chowdary"
+  instagram             : "Anju Pulivarthi"
 
 # Publication Categories
 publication_category:
@@ -84,35 +48,35 @@ publication_category:
     title: 'Conference Presentations'
 
 # Site Settings
-teaser                 : 
-breadcrumbs            : false
-words_per_minute       : 160
-future                 : true
-read_more              : "disabled"
-talkmap_link           : false
+teaser                  : 
+breadcrumbs             : false
+words_per_minute        : 160
+future                  : true
+read_more               : "disabled"
+talkmap_link            : false
 comments:
-  provider             : false
+  provider              : false
 
 staticman:
-  allowedFields        : ['name', 'email', 'url', 'message']
-  branch               : "main"
-  commitMessage        : "New comment."
-  filename             : comment-{@timestamp}
-  format               : "yml"
-  moderation           : true
-  path                 : "_data/comments/{options.slug}"
-  requiredFields       : ['name', 'email', 'message']
+  allowedFields         : ['name', 'email', 'url', 'message']
+  branch                : "main"
+  commitMessage         : "New comment."
+  filename              : comment-{@timestamp}
+  format                : "yml"
+  moderation            : true
+  path                  : "_data/comments/{options.slug}"
+  requiredFields        : ['name', 'email', 'message']
   transforms:
-    email              : "md5"
+    email               : "md5"
   generatedFields:
     date:
-      type             : "date"
+      type              : "date"
       options:
-        format         : "iso8601"
+        format          : "iso8601"
 
 atom_feed:
-  hide                 : false
-  path                 : 
+  hide                  : false
+  path                  : 
 
 # SEO Related
 google_site_verification :
@@ -122,22 +86,22 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username             : &twitter
+  username              : &twitter
 facebook:
-  username             :
-  app_id               :
-  publisher            :
-og_image               :
-og_description         :
+  username              :
+  app_id                :
+  publisher             :
+og_image                :
+og_description          :
 
 social:
-  type                 : Person
-  name                 : "Anju Pulivarthi"
+  type                  : Person
+  name                  : "Anju Pulivarthi"
   links:
 
 # Analytics
 analytics:
-  provider             : "false"
+  provider              : "false"
 
 # Reading Files
 include:
