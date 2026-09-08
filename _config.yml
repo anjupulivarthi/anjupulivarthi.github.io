@@ -20,23 +20,23 @@ author:
   name                  : "Anju Pulivarthi"
   pronouns              : ""
   bio                   : "Media & Communication Scholar researching AI-mediated communication, source authenticity, moving image studies, and Indian Eco-Cinema."
-  location              : "Bengaluru, India"
+  location              : "Greater Bengaluru Area, India"
   employer              : "Ph.D. Applicant"
-  uri                   : ""
+  uri                   : "https://anjupulivarthi.github.io/"
   email                 : "anjuchaudary53@gmail.com"
 
   # Academic websites
-  googlescholar         : "https://scholar.google.com/citations?user=y3mpZtcAAAAJ&hl=en"
-  orcid                 : "https://orcid.org/my-orcid?orcid=0009-0004-4722-0235"
-  ssrn                  : "https://hq.ssrn.com/submissions/MyPapers.cfm?partid=12826988&redirectFrom=true&redirectFrom=true"
+  googlescholar         : "y3mpZtcAAAAJ"
+  orcid                 : "0009-0004-4722-0235"
+  ssrn                  : "12826988"
 
   # Repositories and software development
   github                : "anjupulivarthi"
 
   # Social media
   linkedin              : "p-anju-50607b185"
-  facebook              : "Anju Chowdary"
-  instagram             : "Anju Pulivarthi"
+  facebook              : "Anju-Chowdary"
+  instagram             : "anju_pulivarthi"
 
 # Publication Categories
 publication_category:
